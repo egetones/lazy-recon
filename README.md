@@ -1,4 +1,4 @@
-# LazyRecon 👁️
+# LazyRecon
 
 **LazyRecon** is a simple, fast, and automated reconnaissance tool written in Bash for cybersecurity researchers and CTF players.
 
