@@ -14,6 +14,6 @@ It collects and reports basic OSINT data about a target domain with a single com
 ## Installation (Linux)
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/LazyRecon.git](https://github.com/YOUR_USERNAME/LazyRecon.git)
+git clone https://github.com/egetones/LazyRecon.git
 cd LazyRecon
 chmod +x lazyrecon.sh
